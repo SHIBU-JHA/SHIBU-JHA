@@ -65,13 +65,13 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="SHIBU-JHA">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+  <a href="@shibujha2003">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="SHIBU JHA">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </p>
